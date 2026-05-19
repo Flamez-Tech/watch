@@ -45,7 +45,7 @@ body{
   background: #000000;
   backdrop-filter: blur(20px);
   inset: 5px;
-  border-radius: 16px;
+  border-radius: 17px;
 }
 
 .flamez h2 a {
